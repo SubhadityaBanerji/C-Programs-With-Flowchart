@@ -1,3 +1,7 @@
+/*
+C program to create an array of 10. Initialize the array uisng loop. 1st element contains 1, 2nd element contains 2 ... Print the array.
+*/
+
 #include <stdio.h>
 
 void main() {
